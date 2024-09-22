@@ -10,8 +10,8 @@ This project aims to predict customer churn for a telecommunications company usi
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-##Dataset
+Dataset
 The dataset used in this project is Telco Customer Churn, available above . It contains various attributes that can help in predicting churn, including customer demographics, services, and account details.
 
-##Contributing
+Contributing
 If you'd like to contribute to this project, feel free to open a pull request. For major changes, please open an issue first to discuss what you'd like to change.
